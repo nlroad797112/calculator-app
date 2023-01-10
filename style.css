@@ -1,0 +1,22 @@
+.container {
+    width: 600px;
+    margin: auto;
+    border: 2px solid red;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+input {
+    font-size: 30px;
+    padding: 20px 40px;
+
+}
+
+#text {
+    width: 239px;
+}
+
+#clear {
+    background-color: red;
+    width: 300px;
+}
